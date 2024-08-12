@@ -1,0 +1,50 @@
+[
+  {
+    "name": "New Moon",
+    "rises": "Near Sunrise",
+    "sets": "Near Sunset",
+    "imgSrc": "new"
+  },
+  {
+    "name": "Waxing Crescent",
+    "rises": "After Sunrise",
+    "sets": "After Sunset",
+    "imgSrc": "waxingcrescent"
+  },
+  {
+    "name": "First Quarter",
+    "rises": "Near Noon",
+    "sets": "Near Midnight",
+    "imgSrc": "new"
+  },
+  {
+    "name": "Waxing Gibbous",
+    "rises": "After Noon",
+    "sets": "After Midnight",
+    "imgSrc": "new"
+  },
+  {
+    "name": "Full Moon",
+    "rises": "Near Sunset",
+    "sets": "Near Sunrise",
+    "imgSrc": "new"
+  },
+  {
+    "name": "Waning Gibbous",
+    "rises": "After Sunset",
+    "sets": "After Sunrise",
+    "imgSrc": "new"
+  },
+  {
+    "name": "Third Quarter",
+    "rises": "Near Midnight",
+    "sets": "Near Noon",
+    "imgSrc": "new"
+  },
+  {
+    "name": "Waning Crescent",
+    "rises": "After Midnight",
+    "sets": "After Noon",
+    "imgSrc": "new"
+  }
+]
