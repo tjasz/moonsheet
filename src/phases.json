@@ -1,68 +1,120 @@
-[
-  {
-    "name": "New Moon",
-    "emoji": "🌑",
-    "imgSrc": "new",
-    "rises": "Near Sunrise",
-    "sets": "Near Sunset",
-    "tides": "Most extreme ('spring tide').",
-    "notes": "Solar eclipses possible."
-  },
-  {
-    "name": "Waxing Crescent",
-    "emoji": "🌒",
-    "imgSrc": "waxingcrescent",
-    "rises": "After Sunrise",
-    "sets": "After Sunset",
-    "tides": "Decreasing"
-  },
-  {
-    "name": "First Quarter",
-    "emoji": "🌓",
-    "imgSrc": "new",
-    "rises": "Near Noon",
-    "sets": "Near Midnight",
-    "tides": "Least extreme ('neap tide')."
-  },
-  {
-    "name": "Waxing Gibbous",
-    "emoji": "🌔",
-    "imgSrc": "new",
-    "rises": "After Noon",
-    "sets": "After Midnight",
-    "tides": "Increasing"
-  },
-  {
-    "name": "Full Moon",
-    "emoji": "🌕",
-    "imgSrc": "new",
-    "rises": "Near Sunset",
-    "sets": "Near Sunrise",
-    "tides": "Most extreme ('spring tide').",
-    "notes": "Lunar eclipses possible."
-  },
-  {
-    "name": "Waning Gibbous",
-    "emoji": "🌖",
-    "imgSrc": "new",
-    "rises": "After Sunset",
-    "sets": "After Sunrise",
-    "tides": "Decreasing"
-  },
-  {
-    "name": "Third Quarter",
-    "emoji": "🌗",
-    "imgSrc": "new",
-    "rises": "Near Midnight",
-    "sets": "Near Noon",
-    "tides": "Least extreme ('neap tide')."
-  },
-  {
-    "name": "Waning Crescent",
-    "emoji": "🌘",
-    "imgSrc": "new",
-    "rises": "After Midnight",
-    "sets": "After Noon",
-    "tides": "Increasing"
-  }
-]
+{
+  "eclipses": [
+    {
+      "date": "2024-09-18",
+      "body": "Lunar",
+      "type": "Partial",
+      "magnitude": 0.085,
+      "duration": "01h03m",
+      "location": "Americas, Europe, Africa"
+    },
+    {
+      "date": "2024-10-02",
+      "body": "Solar",
+      "type": "Annular",
+      "magnitude": 0.933,
+      "duration": "07m25s",
+      "location": "s S. America"
+    },
+    {
+      "date": "2025-03-14",
+      "body": "Lunar",
+      "type": "Total",
+      "magnitude": 1.178,
+      "duration": "01h05m",
+      "location": "Pacific, Americas, w Europe, w Africa"
+    },
+    {
+      "date": "2025-03-29",
+      "body": "Solar",
+      "type": "Partial",
+      "magnitude": 0.938,
+      "duration": "",
+      "location": "nw Africa, Europe, n Russia"
+    },
+    {
+      "date": "2025-09-07",
+      "body": "Lunar",
+      "type": "Total",
+      "magnitude": 1.362,
+      "duration": "01h22m",
+      "location": "Europe, Africa, Asia, Australia"
+    },
+    {
+      "date": "2025-09-21",
+      "body": "Solar",
+      "type": "Partial",
+      "magnitude": 0.855,
+      "duration": "",
+      "location": "s Pacific, NZ, Antarctica"
+    }
+  ],
+  "phases": [
+    {
+      "name": "New Moon",
+      "emoji": "🌑",
+      "imgSrc": "new",
+      "rises": "Near Sunrise",
+      "sets": "Near Sunset",
+      "tides": "Most extreme ('spring tide').",
+      "notes": "Solar eclipses possible."
+    },
+    {
+      "name": "Waxing Crescent",
+      "emoji": "🌒",
+      "imgSrc": "waxingcrescent",
+      "rises": "After Sunrise (+50min/day)",
+      "sets": "After Sunset",
+      "tides": "Decreasing"
+    },
+    {
+      "name": "First Quarter",
+      "emoji": "🌓",
+      "imgSrc": "new",
+      "rises": "Near Noon",
+      "sets": "Near Midnight",
+      "tides": "Least extreme ('neap tide')."
+    },
+    {
+      "name": "Waxing Gibbous",
+      "emoji": "🌔",
+      "imgSrc": "new",
+      "rises": "After Noon",
+      "sets": "After Midnight",
+      "tides": "Increasing"
+    },
+    {
+      "name": "Full Moon",
+      "emoji": "🌕",
+      "imgSrc": "new",
+      "rises": "Near Sunset",
+      "sets": "Near Sunrise",
+      "tides": "Most extreme ('spring tide').",
+      "notes": "Lunar eclipses possible."
+    },
+    {
+      "name": "Waning Gibbous",
+      "emoji": "🌖",
+      "imgSrc": "new",
+      "rises": "After Sunset",
+      "sets": "After Sunrise",
+      "tides": "Decreasing"
+    },
+    {
+      "name": "Third Quarter",
+      "emoji": "🌗",
+      "imgSrc": "new",
+      "rises": "Near Midnight",
+      "sets": "Near Noon",
+      "tides": "Least extreme ('neap tide')."
+    },
+    {
+      "name": "Waning Crescent",
+      "emoji": "🌘",
+      "imgSrc": "new",
+      "rises": "After Midnight",
+      "sets": "After Noon",
+      "tides": "Increasing"
+    }
+  ]
+}
