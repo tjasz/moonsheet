@@ -78,7 +78,7 @@
     {
       "name": "Waxing Gibbous",
       "emoji": "🌔",
-      "imgSrc": "waxinggibbous",
+      "imgSrc": "waxinggibbous2",
       "rises": "After Noon",
       "sets": "After Midnight",
       "tides": "Increasing"
@@ -95,7 +95,7 @@
     {
       "name": "Waning Gibbous",
       "emoji": "🌖",
-      "imgSrc": "waninggibbous",
+      "imgSrc": "waninggibbous3",
       "rises": "After Sunset",
       "sets": "After Sunrise",
       "tides": "Decreasing"

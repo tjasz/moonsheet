@@ -111,7 +111,7 @@ function App() {
           </li>
           <li>
             <a target="_blank" href="https://griffithobservatory.org/extreme-moon-the-major-lunar-standstills-of-2024-2025/">
-              Extreme Moon: The Major Lunar Standstills of 2024 - 2025 - Griffith Observatory - Southern California’s gateway to the cosmos!
+              Extreme Moon: The Major Lunar Standstills of 2024 - 2025 - Griffith Observatory
             </a>
           </li>
           <li>
