@@ -70,7 +70,7 @@
     {
       "name": "First Quarter",
       "emoji": "🌓",
-      "imgSrc": "new",
+      "imgSrc": "first",
       "rises": "Near Noon",
       "sets": "Near Midnight",
       "tides": "Least extreme ('neap tide')."
@@ -78,7 +78,7 @@
     {
       "name": "Waxing Gibbous",
       "emoji": "🌔",
-      "imgSrc": "new",
+      "imgSrc": "waxinggibbous",
       "rises": "After Noon",
       "sets": "After Midnight",
       "tides": "Increasing"
@@ -86,7 +86,7 @@
     {
       "name": "Full Moon",
       "emoji": "🌕",
-      "imgSrc": "new",
+      "imgSrc": "full",
       "rises": "Near Sunset",
       "sets": "Near Sunrise",
       "tides": "Most extreme ('spring tide').",
@@ -95,7 +95,7 @@
     {
       "name": "Waning Gibbous",
       "emoji": "🌖",
-      "imgSrc": "new",
+      "imgSrc": "waninggibbous",
       "rises": "After Sunset",
       "sets": "After Sunrise",
       "tides": "Decreasing"
@@ -103,7 +103,7 @@
     {
       "name": "Third Quarter",
       "emoji": "🌗",
-      "imgSrc": "new",
+      "imgSrc": "third",
       "rises": "Near Midnight",
       "sets": "Near Noon",
       "tides": "Least extreme ('neap tide')."
@@ -111,7 +111,7 @@
     {
       "name": "Waning Crescent",
       "emoji": "🌘",
-      "imgSrc": "new",
+      "imgSrc": "waningcrescent",
       "rises": "After Midnight",
       "sets": "After Noon",
       "tides": "Increasing"
