@@ -1,9 +1,13 @@
-table {
+.App>table {
   margin: 0 auto;
 }
 
-th {
+.App>table th {
   text-align: right;
+}
+
+th {
+  text-align: left;
 }
 
 h1 {

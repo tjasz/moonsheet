@@ -1,52 +1,68 @@
 [
   {
     "name": "New Moon",
+    "emoji": "🌑",
+    "imgSrc": "new",
     "rises": "Near Sunrise",
     "sets": "Near Sunset",
-    "imgSrc": "new",
+    "tides": "Most extreme ('spring tide').",
     "notes": "Solar eclipses possible."
   },
   {
     "name": "Waxing Crescent",
+    "emoji": "🌒",
+    "imgSrc": "waxingcrescent",
     "rises": "After Sunrise",
     "sets": "After Sunset",
-    "imgSrc": "waxingcrescent"
+    "tides": "Decreasing"
   },
   {
     "name": "First Quarter",
+    "emoji": "🌓",
+    "imgSrc": "new",
     "rises": "Near Noon",
     "sets": "Near Midnight",
-    "imgSrc": "new"
+    "tides": "Least extreme ('neap tide')."
   },
   {
     "name": "Waxing Gibbous",
+    "emoji": "🌔",
+    "imgSrc": "new",
     "rises": "After Noon",
     "sets": "After Midnight",
-    "imgSrc": "new"
+    "tides": "Increasing"
   },
   {
     "name": "Full Moon",
+    "emoji": "🌕",
+    "imgSrc": "new",
     "rises": "Near Sunset",
     "sets": "Near Sunrise",
-    "imgSrc": "new",
+    "tides": "Most extreme ('spring tide').",
     "notes": "Lunar eclipses possible."
   },
   {
     "name": "Waning Gibbous",
+    "emoji": "🌖",
+    "imgSrc": "new",
     "rises": "After Sunset",
     "sets": "After Sunrise",
-    "imgSrc": "new"
+    "tides": "Decreasing"
   },
   {
     "name": "Third Quarter",
+    "emoji": "🌗",
+    "imgSrc": "new",
     "rises": "Near Midnight",
     "sets": "Near Noon",
-    "imgSrc": "new"
+    "tides": "Least extreme ('neap tide')."
   },
   {
     "name": "Waning Crescent",
+    "emoji": "🌘",
+    "imgSrc": "new",
     "rises": "After Midnight",
     "sets": "After Noon",
-    "imgSrc": "new"
+    "tides": "Increasing"
   }
 ]

@@ -27,7 +27,7 @@ function App() {
       </table>
       <div id="phases">
         {phases.map(phase => (<div className="phase" key={phase.name}>
-          <h2>{phase.name}</h2>
+          <h2>{phase.name}{phase.emoji}</h2>
           <img src={`img/${phase.imgSrc}.jpg`} />
           <table>
             <tbody>
@@ -39,9 +39,16 @@ function App() {
                 <th>Sets:</th>
                 <td>{phase.sets}</td>
               </tr>
+              <tr>
+                <th>Tides:</th>
+                <td>{phase.tides}</td>
+              </tr>
+              <tr>
+                <th>Notes:</th>
+                <td>{phase.notes}</td>
+              </tr>
             </tbody>
           </table>
-          <p>{phase.notes}</p>
         </div>))}
       </div>
       <div id="footnotes">
@@ -59,7 +66,12 @@ function App() {
           </li>
           <li>
             <a target="_blank" href="https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html">
-              Moon Fact Sheet
+              Moon Fact Sheet - NASA
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="https://www.kopernik.org/visitor-info/science-park/phases-of-the-moon">
+              Phases of the Moon &#8211; Kopernik Observatory &amp; Science Center
             </a>
           </li>
         </ol>
