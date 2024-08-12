@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/moonsheet/static/css/main.85ca09ff.css",
-    "main.js": "/moonsheet/static/js/main.37c62101.js",
+    "main.css": "/moonsheet/static/css/main.35c781c2.css",
+    "main.js": "/moonsheet/static/js/main.52d550a8.js",
     "static/js/453.ded611da.chunk.js": "/moonsheet/static/js/453.ded611da.chunk.js",
     "service-worker.js": "/moonsheet/service-worker.js",
     "index.html": "/moonsheet/index.html",
-    "main.85ca09ff.css.map": "/moonsheet/static/css/main.85ca09ff.css.map",
-    "main.37c62101.js.map": "/moonsheet/static/js/main.37c62101.js.map",
+    "main.35c781c2.css.map": "/moonsheet/static/css/main.35c781c2.css.map",
+    "main.52d550a8.js.map": "/moonsheet/static/js/main.52d550a8.js.map",
     "453.ded611da.chunk.js.map": "/moonsheet/static/js/453.ded611da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.85ca09ff.css",
-    "static/js/main.37c62101.js"
+    "static/css/main.35c781c2.css",
+    "static/js/main.52d550a8.js"
   ]
 }
