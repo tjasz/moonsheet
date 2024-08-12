@@ -38,7 +38,7 @@ function App() {
         <p>Note: phases are mirrored in the Southern hemisphere.</p>
         {data.phases.map(phase => (<div className="phase" key={phase.name}>
           <h2>{phase.name}{phase.emoji}</h2>
-          <img src={`img/${phase.imgSrc}.jpg`} />
+          <img src={`./img/${phase.imgSrc}.jpg`} />
           <table>
             <tbody>
               <tr>
