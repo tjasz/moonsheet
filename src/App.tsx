@@ -29,7 +29,13 @@ function App() {
           </tr>
         </tbody>
       </table>
+      <p>
+        The location of the moonrise and moonset does not vary with phase.
+        The moonrise/moonset moves between its northermost and southernmost point over the course of an orbital period.
+        This variation is most extreme during major standstill (e.g. 2024) and least extreme during minor standstill.
+      </p>
       <div id="phases">
+        <p>Note: phases are mirrored in the Southern hemisphere.</p>
         {data.phases.map(phase => (<div className="phase" key={phase.name}>
           <h2>{phase.name}{phase.emoji}</h2>
           <img src={`img/${phase.imgSrc}.jpg`} />
