@@ -3,7 +3,8 @@
     "name": "New Moon",
     "rises": "Near Sunrise",
     "sets": "Near Sunset",
-    "imgSrc": "new"
+    "imgSrc": "new",
+    "notes": "Solar eclipses possible."
   },
   {
     "name": "Waxing Crescent",
@@ -27,7 +28,8 @@
     "name": "Full Moon",
     "rises": "Near Sunset",
     "sets": "Near Sunrise",
-    "imgSrc": "new"
+    "imgSrc": "new",
+    "notes": "Lunar eclipses possible."
   },
   {
     "name": "Waning Gibbous",
